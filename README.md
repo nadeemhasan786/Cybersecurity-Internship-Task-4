@@ -25,7 +25,7 @@ Configure and test basic firewall rules to allow or block network traffic using 
 4. **Allowed SSH traffic** on port 22 (if applicable)
 5. **Removed test rules** to restore original configuration
 
-#Author:-
+## Author:-
 [Nadeem Hasan]
 
 # Remove rule
